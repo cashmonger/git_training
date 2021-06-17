@@ -1,3 +1,5 @@
 Hi. I'm Bob. I'm new here.
 
 Now there's more text for this commit.
+More text for Bob
+And also this
